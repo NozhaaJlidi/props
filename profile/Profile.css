@@ -1,0 +1,21 @@
+#id{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: double;
+   
+
+}
+*{
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    padding-top: 50px;
+}
+.profile{
+    background-color: white
+}
+.BTN{
+    border: none;
+    
+ 
+}
